@@ -1,0 +1,184 @@
+[
+    {
+      "_id": "item1",
+      "grams": 10,
+      "price": 5000,
+      "lastUpdated": "2023-05-18T10:00:00.000Z"
+    },
+    {
+      "_id": "item2",
+      "grams": 15,
+      "price": 7500,
+      "lastUpdated": "2023-05-18T10:00:00.000Z"
+    },
+    {
+      "_id": "item3",
+      "grams": 20,
+      "price": 10000,
+      "lastUpdated": "2023-05-18T10:00:00.000Z"
+    },
+    {
+      "_id": "item4",
+      "grams": 25,
+      "price": 12500,
+      "lastUpdated": "2023-05-18T10:00:00.000Z"
+    },
+    {
+      "_id": "item5",
+      "grams": 30,
+      "price": 15000,
+      "lastUpdated": "2023-05-18T10:00:00.000Z"
+    },
+    {
+      "_id": "item6",
+      "grams": 35,
+      "price": 17500,
+      "lastUpdated": "2023-05-18T10:00:00.000Z"
+    },
+    {
+      "_id": "item7",
+      "grams": 40,
+      "price": 20000,
+      "lastUpdated": "2023-05-18T10:00:00.000Z"
+    },
+    {
+      "_id": "item8",
+      "grams": 45,
+      "price": 22500,
+      "lastUpdated": "2023-05-18T10:00:00.000Z"
+    },
+    {
+      "_id": "item9",
+      "grams": 50,
+      "price": 25000,
+      "lastUpdated": "2023-05-18T10:00:00.000Z"
+    },
+    {
+      "_id": "item10",
+      "grams": 55,
+      "price": 27500,
+      "lastUpdated": "2023-05-18T10:00:00.000Z"
+    },
+    {
+      "_id": "item11",
+      "grams": 60,
+      "price": 30000,
+      "lastUpdated": "2023-05-18T10:00:00.000Z"
+    },
+    {
+      "_id": "item12",
+      "grams": 65,
+      "price": 32500,
+      "lastUpdated": "2023-05-18T10:00:00.000Z"
+    },
+    {
+      "_id": "item13",
+      "grams": 70,
+      "price": 35000,
+      "lastUpdated": "2023-05-18T10:00:00.000Z"
+    },
+    {
+      "_id": "item14",
+      "grams": 75,
+      "price": 37500,
+      "lastUpdated": "2023-05-18T10:00:00.000Z"
+    },
+    {
+      "_id": "item15",
+      "grams": 80,
+      "price": 40000,
+      "lastUpdated": "2023-05-18T10:00:00.000Z"
+    },
+      {
+        "_id": "item16",
+        "grams": 85,
+        "price": 42500,
+        "lastUpdated": "2023-05-18T10:00:00.000Z"
+      },
+      {
+        "_id": "item17",
+        "grams": 90,
+        "price": 45000,
+        "lastUpdated": "2023-05-18T10:00:00.000Z"
+      },
+      {
+        "_id": "item18",
+        "grams": 95,
+        "price": 47500,
+        "lastUpdated": "2023-05-18T10:00:00.000Z"
+      },
+      {
+        "_id": "item19",
+        "grams": 100,
+        "price": 50000,
+        "lastUpdated": "2023-05-18T10:00:00.000Z"
+      },
+      {
+        "_id": "item20",
+        "grams": 105,
+        "price": 52500,
+        "lastUpdated": "2023-05-18T10:00:00.000Z"
+      },
+      {
+        "_id": "item21",
+        "grams": 110,
+        "price": 55000,
+        "lastUpdated": "2023-05-18T10:00:00.000Z"
+      },
+      {
+        "_id": "item22",
+        "grams": 115,
+        "price": 57500,
+        "lastUpdated": "2023-05-18T10:00:00.000Z"
+      },
+      {
+        "_id": "item23",
+        "grams": 120,
+        "price": 60000,
+        "lastUpdated": "2023-05-18T10:00:00.000Z"
+      },
+      {
+        "_id": "item24",
+        "grams": 125,
+        "price": 62500,
+        "lastUpdated": "2023-05-18T10:00:00.000Z"
+      },
+      {
+        "_id": "item25",
+        "grams": 130,
+        "price": 65000,
+        "lastUpdated": "2023-05-18T10:00:00.000Z"
+      },
+      {
+        "_id": "item26",
+        "grams": 135,
+        "price": 67500,
+        "lastUpdated": "2023-05-18T10:00:00.000Z"
+      },
+      {
+        "_id": "item27",
+        "grams": 140,
+        "price": 70000,
+        "lastUpdated": "2023-05-18T10:00:00.000Z"
+      },
+      {
+        "_id": "item28",
+        "grams": 145,
+        "price": 72500,
+        "lastUpdated": "2023-05-18T10:00:00.000Z"
+      },
+      {
+        "_id": "item29",
+        "grams": 150,
+        "price": 75000,
+        "lastUpdated": "2023-05-18T10:00:00.000Z"
+      },
+      {
+        "_id": "item30",
+        "grams": 155,
+        "price": 77500,
+        "lastUpdated": "2023-05-18T10:00:00.000Z"
+      }
+    ]
+    
+  
